@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Open In Mapillary
 // @namespace    https://greasyfork.org/users/45389
-// @version      0.1
+// @version      2017.11.08.001
 // @description  Click link in WME footer to open Mapillary at the same location.
 // @author       MapOMatic
 // @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/.*$/
