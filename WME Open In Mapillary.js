@@ -4,7 +4,7 @@
 // @version      2017.11.08.001
 // @description  Click link in WME footer to open Mapillary at the same location.
 // @author       MapOMatic
-// @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/.*$/
+// @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/?.*$/
 // @grant        none
 // ==/UserScript==
 
